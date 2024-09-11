@@ -2,7 +2,7 @@
 
 **Формат проекта**: Страница блога с возможностью кастомизации оформления через открывающуюся панель.
 
-## [Посмотреть проект](https://github.com/webbOrista/blog-customizer.git)
+## [Посмотреть проект](https://webborista.github.io/blog-customizer/)
 
 ---
 
